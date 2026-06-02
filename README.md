@@ -15,20 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!-- SHAMA PRAVEEN — GitHub Profile README -->
 
 <div align="center">
 
-```python
-analyst = {
-    "name"     : "Shama Praveen",
-    "focus"    : "Data Analytics · Business Intelligence · Data Engineering",
-    "stack"    : ["SQL", "Python", "Power BI", "Tableau", "SSIS", "SSAS", "MySQL", "Excel"],
-    "location" : "Sydney, NSW 🇦🇺"
-}
-```
+<h1>Hi, I'm Shama 👋</h1>
+<h3>Data Analyst · Business Intelligence · Data Engineering</h3>
+<p>📍 Sydney, NSW 🇦🇺 &nbsp;|&nbsp; 🎓 Master of IT (Data Analytics, Distinction) — University of Newcastle</p>
 
 </div>
+
+---
+
+- 🔭 I'm currently working on **building end-to-end BI solutions using Microsoft Fabric and modern data stacks**
+- 🌱 I'm currently learning **dbt, Microsoft Fabric (DP-600), Databricks, and BigQuery**
+- 👯 I'm looking to collaborate on **data analytics, BI dashboards, or ETL pipeline projects**
+- 💬 Ask me about **SQL, Power BI, Python, data modelling, Kimball methodology, or breaking into data in Australia**
+- 📫 How to reach me: **praveenshama1106@gmail.com** or [LinkedIn](https://linkedin.com/in/shama-shaik-aa5a77167)
+- ⚡ Fun fact: **I cleaned 60,000+ government records with Python for a City of Sydney project that ended up informing real infrastructure investment decisions**
 
 ---
 
@@ -61,6 +66,12 @@ analyst = {
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-3955A3?style=flat&logo=microsoftvisio&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+### 🚀 Currently Learning
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat&logo=microsoft&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -129,21 +140,29 @@ Extended iteration of the UON fire management solution with additional reporting
 
 ---
 
-## 📈 GitHub Stats
+## 📜 Certifications
 
-<div align="center">
-
-![Shama's GitHub stats](https://github-readme-stats.vercel.app/api?username=shama1106&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shama1106&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shama1106&theme=github-dark&hide_border=true)
-
-</div>
+| Badge | Certification | Issuer | Year |
+|-------|--------------|--------|------|
+| 🏅 | Career Essentials in Business Analysis | Microsoft & LinkedIn | 2025 |
+| 🏅 | Data Analytics Job Simulation | Deloitte Australia, Forage | 2025 |
+| 🎯 | DP-600 Fabric Analytics Engineer *(in progress)* | Microsoft | 2025 |
 
 ---
 
 ## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shama_Praveen-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shama-shaik-aa5a77167)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://github.com/shama1106)
+[![Email](https://img.shields.io/badge/Email-praveenshama1106@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:praveenshama1106@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=shama1106&color=0891b2&style=flat&label=Profile+Views)
+
+</div>
+
+
 
 <div align="center">
 
