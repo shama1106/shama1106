@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on **data analytics, BI dashboards, or ETL pipeline projects**
 - 💬 Ask me about **SQL, Power BI, Python, data modelling, Kimball methodology, or breaking into data in Australia**
 - 📫 How to reach me: **praveenshama1106@gmail.com** or [LinkedIn](https://linkedin.com/in/shama-shaik-aa5a77167)
-- ⚡ Fun fact: **I cleaned 60,000+ government records with Python for a City of Sydney project that ended up informing real infrastructure investment decisions**
+- ⚡ Fun fact: **I cleaned 60,000+ government records with Python for a City of Sydney project that informed real infrastructure investment decisions**
 
 ---
 
@@ -42,10 +42,12 @@ Here are some ideas to get you started:
 ### Data & Analysis
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_(Advanced)-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-3A3A3A?style=flat&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 ### Visualisation & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -77,31 +79,59 @@ Here are some ideas to get you started:
 
 ## 📂 Projects
 
-### 🏛️ [NSW EPA Regional Performance Analysis](https://github.com/shama1106)
+### 🏛️ [Best Field Officer – Environment Protection Agency](https://github.com/shama1106/Best-Field-officer---Environment-Protection-Agency-Newcastle-)
 **`Power BI`** **`SQL`** **`Python`** **`Excel`** **`Star Schema`** **`ETL`**
 
 End-to-end BI solution for 8 NSW EPA regional offices. Built a star schema data warehouse in SQL Server, developed ETL pipelines, and delivered Power BI dashboards using window functions (RANK, ROW_NUMBER) to score field officer compliance rates, activity duration and cost efficiency — supporting evidence-based resource allocation.
 
 ---
 
-### 🚗 [Global Car Hire – Business Intelligence DataMart](https://github.com/shama1106/Datamart-and-Business-Intelligence)
+### 🏢 [Office Performance Analytics & BI System](https://github.com/shama1106/office-performance-analytics-and-bi-system)
+**`Power BI`** **`SQL`** **`SSIS`** **`SSAS`** **`Star Schema`** **`ETL`**
+
+End-to-end office performance BI system — data warehouse design, ETL pipelines, and interactive Power BI dashboards for tracking and benchmarking office-level KPIs.
+
+---
+
+### 🚗 [Global Car Hire – Business Intelligence DataMart](https://github.com/shama1106/globalcarhire-database-system)
 **`SSIS`** **`SSAS`** **`Power BI`** **`SQL Server`** **`Kimball Methodology`**
 
 Architected a multi-branch vehicle rental database system using Kimball's dimensional methodology — 10 normalised entities (Customer, Vehicle, Booking, Invoice, Branch, Return and more), automated stored procedures for booking validation, loyalty discount logic and penalty calculation.
 
 ---
 
-### 📊 [Enterprise Sales BI System](https://github.com/shama1106)
+### 📊 [Enterprise Sales Data Warehouse & BI System](https://github.com/shama1106/enterprise-sales-datawarehouse-bi-system)
 **`SSIS`** **`SSAS`** **`Power BI`** **`SQL Server`** **`Star Schema`**
 
 Full Microsoft BI stack on the AdventureWorks dataset — star schema warehouse (1 fact table, 4 dimensions: Customer, Product, Store, Time), SSIS ETL pipelines, SSAS multidimensional cube with drill-down hierarchies. Dashboards track revenue, top products, customer patterns and regional store comparisons.
 
 ---
 
-### 🏙️ [City of Sydney – Employment Trend Analysis](https://github.com/shama1106)
+### 🏙️ [City of Sydney – FES Industry Employment Analysis](https://github.com/shama1106/FES-Industry-Data-Analysis-City-of-Sydney)
 **`Python`** **`MySQL`** **`Power BI`** **`OpenAI`** **`ETL`**
 
 Cleaned and standardised 60,000+ inconsistent government records across three time periods. Identified measurable industry shifts across Greater Sydney — built interactive Power BI dashboards embedded in a live public Council platform. Integrated OpenAI with Python to generate plain-language employment summaries.
+
+---
+
+### 🏦 [Banking Data Analysis using R](https://github.com/shama1106/Banking-Data-Analysis-using-R)
+**`R`** **`Statistical Analysis`** **`Data Visualisation`**
+
+In-depth banking dataset analysis using R — statistical modelling, customer segmentation and data visualisation to surface actionable insights from financial data.
+
+---
+
+### 🏦 [Analysis of Portuguese Banking Institutions – Big Data](https://github.com/shama1106/Analysis-of-Portuguese-Banking-Institutions---Big-Data)
+**`R`** **`Big Data`** **`Statistical Analysis`** **`Python`**
+
+Big data analysis of Portuguese banking institution data — large-scale data processing, pattern recognition and predictive modelling across customer and transaction datasets.
+
+---
+
+### 🎁 [Loyalty Program Analysis using R](https://github.com/shama1106/Loyalty-Program-Analysis-using-R)
+**`R`** **`Statistical Analysis`** **`Data Visualisation`** **`Excel`**
+
+Customer loyalty program performance analysis — cohort analysis, retention modelling and visualisation of reward redemption patterns to inform programme strategy.
 
 ---
 
@@ -119,24 +149,10 @@ Deep-dive into digital marketing channel performance for two global sportswear g
 
 ---
 
-### 🚙 [Tesla Australia Marketing Plan](https://github.com/shama1106/Tesla-Australia-Marketing-Plan)
-**`Python`** **`HTML`** **`Excel`** **`Statistical Analysis`**
-
-Data-driven marketing strategy for EV market penetration in Australia — market sizing, competitive analysis and investment-backed recommendations.
-
----
-
-### 🔥 [UON Fire Management System](https://github.com/shama1106/UON-Fire-Management-System)
+### 🔥 [UON Fire Management System](https://github.com/shama1106/UON-Fire-Management-System-1)
 **`SQL`** **`Python`** **`Data Modelling`**
 
 University of Newcastle fire management data system — operational data modelling and reporting solution for emergency resource management.
-
----
-
-### 🔥 [UON Fire Management System v2](https://github.com/shama1106/UON-Fire-Management-System-1)
-**`SQL`** **`Python`** **`Data Modelling`**
-
-Extended iteration of the UON fire management solution with additional reporting and system enhancements.
 
 ---
 
@@ -161,6 +177,5 @@ Extended iteration of the UON fire management solution with additional reporting
 ![Profile views](https://komarev.com/ghpvc/?username=shama1106&color=0891b2&style=flat&label=Profile+Views)
 
 </div>
-
 
 
