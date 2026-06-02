@@ -164,12 +164,3 @@ Extended iteration of the UON fire management solution with additional reporting
 
 
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shama_Praveen-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shama-shaik-aa5a77167)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://github.com/shama1106)
-[![Email](https://img.shields.io/badge/Email-praveenshama1106@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:praveenshama1106@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=shama1106&color=0891b2&style=flat&label=Profile+Views)
-
-</div>
