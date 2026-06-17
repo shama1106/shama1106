@@ -116,7 +116,7 @@ Cleaned and standardised **60,000+ inconsistent government records** across thre
 
 End-to-end BI solution for 8 NSW EPA regional offices. Built a star schema data warehouse in SQL Server, developed ETL pipelines, and delivered Power BI dashboards using window functions (`RANK`, `ROW_NUMBER`) to score field officer compliance rates, activity duration and cost efficiency.
 
-[View Project →](https://github.com/shama1106/Performance-Dashboard-of-Regional-offices-in-Australia)
+[View Project →](https://github.com/shama1106/Best-Field-officer---Environment-Protection-Agency-Newcastle-) &nbsp;|&nbsp; [View on Portfolio →](https://shamapraveen.netlify.app/#projects)
 
 ---
 
@@ -125,7 +125,7 @@ End-to-end BI solution for 8 NSW EPA regional offices. Built a star schema data 
 
 Full Microsoft BI stack on the AdventureWorks dataset — star schema warehouse (1 fact table, 4 dimensions), SSIS ETL pipelines, SSAS multidimensional cube with drill-down hierarchies. Dashboards track revenue, top products, customer patterns and regional store comparisons.
 
-[View Project →](https://github.com/shama1106/enterprise-sales-datawarehouse-bi-system)
+[View on Portfolio →](https://shamapraveen.netlify.app/#projects)
 
 ---
 
@@ -134,7 +134,7 @@ Full Microsoft BI stack on the AdventureWorks dataset — star schema warehouse 
 
 Architected a multi-branch vehicle rental database using Kimball's dimensional methodology — 10 normalised entities, automated stored procedures for booking validation, loyalty discount logic and penalty calculation.
 
-[View Project →](https://github.com/shama1106/Datamart-and-Business-Intelligence)
+[View Project →](https://github.com/shama1106/globalcarhire-database-system) &nbsp;|&nbsp; [View on Portfolio →](https://shamapraveen.netlify.app/#projects)
 
 ---
 
